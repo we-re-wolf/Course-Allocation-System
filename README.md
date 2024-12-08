@@ -20,7 +20,7 @@ A modern web application for managing course allocations and faculty preferences
 ## **🖼️ Screenshots**
 | Faculty Dashboard | Admin Allocations Page |
 |-------------------|-------------------------|
-| ![Faculty Dashboard Screenshot](link_to_image) | ![Admin Allocations Page Screenshot](link_to_image) |
+| ![Faculty Dashboard Screenshot]() | ![Admin Allocations Page Screenshot](https://drive.google.com/file/d/19tRLGzlBNRREDOiq22VTMELcAQIXgry5/view?usp=sharing) |
 
 ---
 
@@ -171,5 +171,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Inspired by modern course management systems.  
 
 ---
-
-Let me know if you'd like additional tweaks or specific additions!
