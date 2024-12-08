@@ -20,7 +20,7 @@ A modern web application for managing course allocations and faculty preferences
 ## **🖼️ Screenshots**
 | Faculty Dashboard | Admin Allocations Page |
 |-------------------|-------------------------|
-| ![Faculty Dashboard Screenshot]() | ![Admin Allocations Page Screenshot](https://drive.google.com/file/d/19tRLGzlBNRREDOiq22VTMELcAQIXgry5/view?usp=sharing) |
+| ![Faculty Dashboard Screenshot](https://github.com/we-re-wolf/Course-Allocation-System/blob/main/images/Screenshot%202024-12-08%20173209.png) | ![Admin Allocations Page Screenshot](https://github.com/we-re-wolf/Course-Allocation-System/blob/main/images/admin.png) |
 
 ---
 
