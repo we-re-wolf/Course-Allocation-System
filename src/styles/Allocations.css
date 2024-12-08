@@ -1,0 +1,55 @@
+.allocations-page {
+    padding: 20px;
+  }
+  
+  .allocations-page h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .allocations-page h2 {
+    font-size: 1.5em;
+    margin-top: 30px;
+    color: #555;
+  }
+  
+  .allocations-page table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  .allocations-page table th,
+  .allocations-page table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .allocations-page table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+  
+  .allocations-page table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .allocations-page table tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .download-btn {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 20px;
+  }
+  
+  .download-btn:hover {
+    background-color: #0056b3;
+  }

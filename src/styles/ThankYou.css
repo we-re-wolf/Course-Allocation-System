@@ -1,0 +1,24 @@
+.thank-you {
+  text-align: center;
+  padding: 20px;
+}
+
+.thank-you h2 {
+  font-size: 2rem;
+  color: #4caf50;
+}
+
+.thank-you p {
+  font-size: 1.2rem;
+  margin: 20px 0;
+}
+
+.thank-you a {
+  text-decoration: none;
+  color: #007bff;
+  font-weight: bold;
+}
+
+.thank-you a:hover {
+  text-decoration: underline;
+}
