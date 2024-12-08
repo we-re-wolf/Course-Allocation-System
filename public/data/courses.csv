@@ -1,0 +1,78 @@
+Program,Semester,Course Name,Credits,Weekly Slots,Groups
+BTech AI/ CSEwSpl/IT,2,OOPS using C++ Language,3,3,4
+BTech AI/ CSEwSpl/IT,2,Generative AI-2,3,3,4
+BTech AI/ CSEwSpl/IT,2,Back End Development,3,3,4
+BTech AI/ CSEwSpl/IT,2,Algorithm and Data Structure,3,3,4
+BTech AI/ CSEwSpl/IT,2,Discrete Mathematics,3,3,4
+BTech AI / CSE-AI (FT),4,Formal Lanuage and Automata Theory,3,3,2
+BTech AI / CSE-AI (FT),4,Software Engineering,3,4,2
+BTech AI / CSE-AI (FT),4,Operating System,3,4,2
+BTech AI / CSE-AI (FT),4,Python Application Programming,3,4,2
+BTech AI / CSE-AI (FT),4,Soft Computing,3,3,2
+BTech AI / CSE-AI (FT),4,Integrated Work/Project,2,2,2
+BTech AI / CSE-AI (NT),4,Database Management System,3,4,2
+BTech AI / CSE-AI (NT),4,Formal Languages and Automata Theory,3,3,2
+BTech AI / CSE-AI (NT),4,Operating System,3,4,2
+BTech AI / CSE-AI (NT),4,Java Programming,3,4,2
+BTech AI / CSE-AI (NT),4,Soft Computing,3,3,2
+BTech CC/CS,4,Database Management System,3,4,1
+BTech CC/CS,4,Formal Languages and Automata Theory,3,3,1
+BTech CC/CS,4,Operating System,3,4,1
+BTech CC/CS,4,Java Programming,3,4,1
+BTech CC,4,Virtualization and Cloud Computing,3,3,1
+BTech CS,4, Cyber Security,3,3,1
+BTech DS & Others,4,Database Management System,3,4,1
+BTech DS & Others,4,Formal Languages and Automata Theory,3,3,1
+BTech DS & Others,4,Operating System,3,4,1
+BTech DS & Others,4,Java Programming,3,4,1
+BTech DS &BCIoT,4,Data Handling and Visualization,3,3,1
+BTech Graphics & Animations,4,Game Design and Asset Creation,3,3,1
+BTech IT & DevOps,4,Distribute Compting,3,3,1
+B Tech AI/AIR/CSE-AI,6,Compiler Design,3,3,1
+B Tech AI/AIR/CSE-AI,6,Software Engineering,3,3,1
+B Tech AI/AIR/CSE-AI,6,Programming in PHP & MySql,3,4,1
+B Tech AI/AIR/CSE-AI,6,Deep Learning,3,4,1
+B Tech AI/AIR/CSE-AI,6,Natural Languages Processing,3,4,1
+B Tech CSE-DS/CC/CS,6,Compiler Design,3,3,1
+B Tech CSE-DS/CC/CS,6,Software Engineering,3,3,1
+B Tech CSE-DS/CC/CS,6,Programming in PHP & MySql,3,4,1
+B Tech CSE-DS,6,Computing for Data Science,3,4,1
+B Tech CSE-DS,6,Data Science Optimization,3,4,1
+B Tech CSE-CC,6,Cloud Application Development,3,4,1
+B Tech CSE-CC,6,Cloud Security and Management,3,4,1
+B Tech CSE-CS,6,Digital Forensic,3,4,1
+B Tech CSE-CS,6,Intrusion Detection System,3,4,1
+B Tech ALL,8,Data Mining and Predictive Modeling ,3,3,1
+B Tech AI/AIR/CSE-AI,8,Data Science,3,3,1
+B Tech AI/AIR/CSE-AI,8,Development of IoT applications with Case Study,3,3,1
+B Tech CC/CS/BD,8,Information Security and Audit Monitoring,3,3,1
+B Tech CC/CS/BD,8,Design and Development of Cloud Applications,3,3,1
+M Tech CSE,2,Vecvtor Database for Gen AI,4,5,1
+M Tech CSE,2,Probabilistic Graphical Models,3,3,1
+M Tech CSE,2,Artificial Intelligence & ML,3,3,1
+M Tech CSE,2,Natural Languages Processing,4,5,1
+BCA ALL,2,Design Thinking,3,3,3
+BCA ALL,2,Procedural Programming with C,4,5,3
+BCA ALL,2,Introduction to Python Programming ,4,5,3
+BCA ALL,2,Web Programming ,4,5,3
+BCA FS/AI,4,Database Management System,3,4,2
+BCA FS/AI,4,Formal Languages and Automata,3,3,2
+BCA FS,4,Operating System,3,3,1
+BCA FS,4,Web Programming,3,4,1
+BCA AI,4,Foundamentals of Generative AI,3,3,1
+BCA AI,4,Introduction to Machine Learning,3,4,1
+BCA UI/UX /Gaming,4,Programming for Games,3,4,1
+BCA UI/UX /Gaming,4,Game Design and Asset Creation,3,3,1
+BCA UI/UX /Gaming,4,User Experience Design,3,3,1
+BCA UI/UX /Gaming,4,Graphics Design,3,4,1
+BCA FS,6,Programming in PHP,3,4,1
+BCA FS,6,Power BI,3,4,1
+BCA UI/UX-Gaming,6,Programming in Games,3,4,1
+BCA UI/UX-Gaming,6,XR Studio-II,3,4,1
+MCA ALL & MSc DS,2,Design and Analysis of Algorithm,4,5,1
+MCA ALL & MSc DS,2,Advance Theory of Automata,3,3,1
+MCA ALL & MSc DS,2,Artificial Intelligence & ML,3,3,1
+MCA ALL,2,Operating System Concepts,4,5,1
+MCA ALL & MSc DS,2,Python Application Programming,3,4,1
+MCA ALL & MSc DS,4,Information Security and Privacy,4,4,1
+MSc DS,2,Time series analysis and Forecasting,4,5,1
